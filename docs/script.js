@@ -1,5 +1,5 @@
 // groups
-var group_names = ["group1", "group2", "group3"];
+var group_names = ["Test 1", "group2", "group3"];
 var application_weights = [
   [0, 1, 1, 0],
   [0, 0.8, 0, 0.7],
